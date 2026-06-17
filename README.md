@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 (https://colab.research.google.com/github/sayamstuti/Key_Point_Detection/blob/main/Untitled4.ipynb)
-# Project_Detection
+# Project_Description
 This project implements a Human Pose Estimation and Key Point Detection system using Python, OpenCV, and MediaPipe. It detects human body landmarks from images and videos and visualizes them as skeletal connections, enabling applications such as posture analysis, fitness tracking, and activity recognition.
 # Features
 1. Detects 33 human body landmarks
