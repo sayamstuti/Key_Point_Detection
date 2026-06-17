@@ -33,7 +33,9 @@ Real-time webcam integration
 Exercise repetition counting
 Yoga pose classification
 Action recognition using deep learning
-**Sayam Stuti**  
-Institute of Technical Education and Research (ITER)  
+# Author-
+**Sayam Stuti Shuvadarsini**  
+
+Institute of Technical Education and Research (ITER),SOA  
 B.Tech in Computer Science and Engineering (Data Science)  
 📧 Email: sayamstuti594@gmail.com
